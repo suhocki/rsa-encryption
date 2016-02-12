@@ -1,0 +1,21 @@
+﻿  Source.cpp
+c:\users\z\documents\visual studio 2015\projects\winapi-rsa-encryption\winapi-rsa-encryption\source.cpp(334): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note:  см. объявление "strcat"
+c:\users\z\documents\visual studio 2015\projects\winapi-rsa-encryption\winapi-rsa-encryption\source.cpp(351): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note:  см. объявление "strcat"
+c:\users\z\documents\visual studio 2015\projects\winapi-rsa-encryption\winapi-rsa-encryption\source.cpp(369): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note:  см. объявление "strcat"
+c:\users\z\documents\visual studio 2015\projects\winapi-rsa-encryption\winapi-rsa-encryption\source.cpp(126): warning C4101: ps: неиспользованная локальная переменная
+c:\users\z\documents\visual studio 2015\projects\winapi-rsa-encryption\winapi-rsa-encryption\source.cpp(137): warning C4101: str: неиспользованная локальная переменная
+  rsa.cpp
+c:\users\z\documents\visual studio 2015\projects\winapi-rsa-encryption\winapi-rsa-encryption\rsa.cpp(100): warning C4101: buff: неиспользованная локальная переменная
+c:\users\z\documents\visual studio 2015\projects\winapi-rsa-encryption\winapi-rsa-encryption\rsa.cpp(153): warning C4018: <: несоответствие типов со знаком и без знака
+  numTransfer.cpp
+c:\users\z\documents\visual studio 2015\projects\winapi-rsa-encryption\winapi-rsa-encryption\numtransfer.cpp(34): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\z\documents\visual studio 2015\projects\winapi-rsa-encryption\winapi-rsa-encryption\numtransfer.cpp(37): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  main.cpp
+  key.cpp
+c:\users\z\documents\visual studio 2015\projects\winapi-rsa-encryption\winapi-rsa-encryption\key.cpp(50): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+c:\users\z\documents\visual studio 2015\projects\winapi-rsa-encryption\winapi-rsa-encryption\source.cpp(419): warning C4715: WinProc: значение возвращается не при всех путях выполнения
+  winapi-rsa-encryption.vcxproj -> c:\users\z\documents\visual studio 2015\Projects\winapi-rsa-encryption\Debug\winapi-rsa-encryption.exe
